@@ -219,7 +219,7 @@ footer .social-icons a {
     height: 350px;
   }
   .about-wrapper {
-    background: https://github.com/parthdarji1229/Kalinga-Fellowship/blob/55693967c67dfbb3c0866e28551f02460844329a/about-bg.png;
+    background: "https://github.com/parthdarji1229/Kalinga-Fellowship/blob/55693967c67dfbb3c0866e28551f02460844329a/about-bg.png";
   }
   .about {
     position: relative;
